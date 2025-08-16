@@ -1,4 +1,9 @@
+## Owerview
+
 This repository contains testing artifacts for the Login functionality of https://www.saucedemo.com/v1/index.html.
+
+![Alt text](images/image.png)
+
 
 ## Testing Artifacts
 1. Requirements & Acceptance Criteria
@@ -10,4 +15,3 @@ This repository contains testing artifacts for the Login functionality of https:
 7. Execution Report
 8. Bug Reports
 9. Tools Evidence (Postman, Screenshots)
-
